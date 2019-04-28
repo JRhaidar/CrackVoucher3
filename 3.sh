@@ -56,8 +56,10 @@ if [ $jwb = Y ] | [ $jwb = y ]; then
 	sleep 2
 	echo "\033[33;1mBerikut Ini Adalah Voucher Yang Berhasil DiDapatkan:"
 	echo 
+	sleep 4
 	echo "\033[34;1m5214451248244976"
 	echo
+	sleep 1
 	echo "\033[32;1mGunakan Dengan Bijak"
 	echo "\033[32;1mSemoga Harimu Menyenangkan"
 fi
